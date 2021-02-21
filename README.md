@@ -6,7 +6,6 @@ Bike Share Data (https://www.motivateco.com)
 In this project, i used data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. we can now compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
 
-
 The Datasets Randomly selected data for the first six months of 2017 are provided for all three cities.
 All three of the data files contain the same core six (6) columns:
 
@@ -43,4 +42,5 @@ most common trip from start to end (i.e., most frequent combination of start sta
 total travel time average travel time
 
  #4 User info
-counts of each user type counts of each gender (only available for NYC and Chicago) earliest, most recent, most common year of birth (only available for NYC and Chicago) The Files To answer these questions using Python.
+counts of each user type counts of each gender (only available for NYC and Chicago) earliest, most recent, most common year of birth (only available for NYC and Chicago) 
+Attached the File To answer these questions using Python.
